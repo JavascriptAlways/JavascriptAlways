@@ -8,9 +8,9 @@
 <div align="center"> 
  💻 As a <b>Full Stack Web App Engineer</b>, I work with cutting-edge technologies like <b>React.js, Next.js 15, Firebase, Node.js, Express.js, MongoDB</b> to build scalable and high-performing applications.
  <br><br>
- ⚙️ As a <b>DevOps Engineer</b>, I am DevOps learner.
+ ⚙️ As a <b>DevOps Learner.
  <br><br>
- 📚 In addition, I serve as a <b>Software Engineer</b>, at Tech Mahindra.
+ 📚 In addition, I am serving as a <b>Software Engineer</b>, at Tech Mahindra.
 </div>
  <br />
 <div align="center"> 
