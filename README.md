@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Farzeen+Ali+👨🏻‍💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Mahesh+Joshi+👨🏻‍💻;" />
 </h1>
 
 <h2 align="center">Mahesh Joshi | Software Engineer | ReactJs | Javascript | NodeJs | NextJs | DevOps Specialist 🔒⚙️
