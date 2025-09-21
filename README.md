@@ -26,7 +26,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,javascript,typescript,express,nodejs,nestjs,github,tailwind,git,linux,docker,kubernetes,gitlab" />
-    <img src="https://skillicons.dev/icons?i=firebase,mongodb,nextjs,nuxt,graphql,laravel,jenkins,terraform,aws,ansible,grafana" /><br>
+    <img src="https://skillicons.dev/icons?i=firebase,mongodb,nextjs,laravel,jenkins,terraform,aws,ansible,grafana" /><br>
 </div>
 <br/>
 <hr/>
