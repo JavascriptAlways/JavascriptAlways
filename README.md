@@ -10,8 +10,6 @@
  <br><br>
  ⚙️ As a <b>DevOps Engineer</b>, I am DevOps learner.
  <br><br>
- 🔒 As a <b>Cyber Security Specialist</b>, I perform penetration testing, vulnerability assessment, and enterprise defense using tools such as <b>Kali Linux, Wireshark, Nmap, Burp Suite, Metasploit, Nessus, Hydra, Hashcat, John the Ripper, Splunk, ELK, Wazuh, and QRadar</b>. I also secure <b>Cloud & Container environments</b> with the <b>Zero Trust Model</b>.
- <br><br>
  📚 In addition, I serve as a <b>Software Engineer</b>, at Tech Mahindra.
 </div>
  <br />
