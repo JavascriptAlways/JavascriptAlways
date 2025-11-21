@@ -10,7 +10,7 @@
  <br><br>
  ⚙️<b>DevOps Learner.
  <br><br>
- 📚 In addition, I am serving as a <b>Software Engineer</b>, at Tech Mahindra.
+ 📚 In addition, I am serving as a <b>Senior Software Engineer</b>, at Tech Mahindra.
 </div>
  <br />
 <div align="center"> 
