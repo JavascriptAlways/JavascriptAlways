@@ -1,12 +1,12 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Mahesh+Joshi+👨🏻‍💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Mahesh+Joshi!+👋;+Full+Stack+Developer+👨🏻‍💻;" />
 </h1>
 
 <h2 align="center">Mahesh Joshi | Software Engineer | ReactJs | Javascript | NodeJs | NextJs specialist 🔒⚙️
 </h2>
 
 <div align="center"> 
- 💻 As a <b>Full Stack Web App Engineer</b>, I work with cutting-edge technologies like <b>React.js, Next.js 15, Firebase, Node.js, Express.js, MongoDB</b> to build scalable and high-performing applications.
+ 💻 As a <b>Full Stack Web App Engineer</b>, I work with cutting-edge technologies like <b>React.js, Next.js, Firebase, Node.js, Express.js, MongoDB</b> to build scalable and high-performing applications.
  <br><br>
  ⚙️<b>DevOps Learner.
  <br><br>
