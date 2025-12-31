@@ -34,10 +34,10 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=javascriptalways&show_icons=true&theme=midnight-purple" alt="Farzeen's GitHub Stats" height="200px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=javascriptalways&show_icons=true&theme=midnight-purple" alt="Mahesh's GitHub Stats" height="200px" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javascriptalways&layout=compact&theme=midnight-purple" alt="Farzeen's Top Languages" height="200px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javascriptalways&layout=compact&theme=midnight-purple" alt="Mahesh's Top Languages" height="200px" />
       </td>
     </tr>
   </table>
